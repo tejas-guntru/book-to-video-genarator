@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BookReel AI",
+  "description": "An AI tool that takes a book in PDF format as input and generates a comprehensive summary, a video script, and a short summary video.",
+  "requestFramePermissions": []
+}
